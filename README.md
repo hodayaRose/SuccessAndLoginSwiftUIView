@@ -3,8 +3,9 @@
 
 This project demonstrates the use of Lottie animations in a SwiftUI app. It consists of two views, `SuccessView` and `LoadingView`, each displaying a different Lottie animation.
 
+
 ![SuccessView Preview](https://github.com/hodayaRose/SuccessAndLoginSwiftUIView/blob/7e7d726242f151a6dfd4a29860ddc792e386c647/LoadingviewImage.jpeg)
-![LoadingView Preview](https://github.com/hodayaRose/SuccessAndLoginSwiftUIView/blob/7e7d726242f151a6dfd4a29860ddc792e386c647/LoadingImage.png)
+
 
 ## Features
 
@@ -12,6 +13,7 @@ This project demonstrates the use of Lottie animations in a SwiftUI app. It cons
 - Displays a loading animation in `LoadingView`.
 - Utilizes Lottie animations to enhance the user experience.
 - Success View is half transparent to a seamless overlay experience with other views.
+- the animations can be modified to your needs 
 
 ## Requirements
 
